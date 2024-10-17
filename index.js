@@ -7,7 +7,7 @@ if (age > 18) {
   document.getElementById("h1").innerHTML = `Welcome to Cloud9 viewing center!`;
   document.getElementById(
     "p1"
-  ).innerHTML = `Thank you using Cloud9. we're rooting for ${club} to win1`;
+  ).innerHTML = `Thank you using Cloud9. we're rooting for ${club} to win!`;
 } else {
   alert("wait till you're 18");
 }
